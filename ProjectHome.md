@@ -1,0 +1,1 @@
+Arquivos-fonte da página pessoal na "internet". Foi alocado aqui no GoogleCode para maior facilidade de manutenção.
